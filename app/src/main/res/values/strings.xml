@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SDEX</string>
+    <string name="facebook_app_id">2037589222921832</string>
+    <string name="fb_login_protocol_scheme">fb2037589222921832</string>
+    <string name="access_token">Access Token</string>
+    <string name="profile_picture">profile picture</string>
+    <string name="album">Album ID: </string>
+    <string name="id">ID:</string>
+</resources>
